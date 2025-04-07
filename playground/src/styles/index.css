@@ -1,0 +1,5 @@
+#app, body, html {
+  background-color: black;
+  color: #ccc;
+  height: 100vh;
+}

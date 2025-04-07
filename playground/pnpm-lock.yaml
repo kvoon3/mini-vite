@@ -1,0 +1,16 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+overrides:
+  vite: link:..
+
+importers:
+
+  .:
+    devDependencies:
+      vite:
+        specifier: link:..
+        version: link:..

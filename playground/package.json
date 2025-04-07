@@ -1,0 +1,21 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "packageManager": "pnpm@10.7.1",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "link:.."
+  },
+  "pnpm": {
+    "overrides": {
+      "vite": "link:.."
+    }
+  }
+}
